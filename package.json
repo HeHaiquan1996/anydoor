@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "chalk": "^3.0.0",
+    "handlebar": "^1.0.0"
+  }
+}
